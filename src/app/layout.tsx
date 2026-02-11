@@ -8,11 +8,11 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "IT Assistant",
+  title: "Noname!! Bot-Voice",
   description: "Minimalist Voice Interface",
   icons: {
     icon: "/logo.png",
-  },
+  }
 };
 
 export default function RootLayout({
